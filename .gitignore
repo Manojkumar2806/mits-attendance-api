@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+env/
+.env
+# Ignore Python cache files
+# Ignore Node.js modules
+# Ignore virtual environment directories    
+# Ignore environment variable files
